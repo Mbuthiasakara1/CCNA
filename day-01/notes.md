@@ -148,12 +148,16 @@ When SRV1 receives data:
 
 ## 🔗 How Layers Interact
 
+![adjacent](images/adjacent.png)
+
 **Adjacent-Layer Interaction**
 - Each layer provides a SERVICE to the layer above it
 - Layer 4 serves Layer 5 by delivering data to correct application (using port numbers)
 - Layer 3 serves Layer 4 by delivering to correct destination host (using IP addresses)
 - Layer 2 serves Layer 3 by delivering to next hop (using MAC addresses)
 - Layer 1 serves Layer 2 by sending frames as signals
+
+![same-layer](images/same-layer.png)
 
 **Same-Layer Interaction**
 - Each layer communicates with the SAME layer on other devices
