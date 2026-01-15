@@ -86,7 +86,7 @@
 
 ## 📚 The 5 Layers of TCP/IP Model
 
-![TCP/IP 5 Layers](day-01/images/tcp-ip model.png)
+![TCP/IP 5 Layers](images/tcp-ip-model.png)
 
 **Layer 5 - Application**
 - Protocols for communication between application processes
