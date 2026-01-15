@@ -116,7 +116,7 @@
 
 ## 🔄 How Data Moves: Encapsulation & Decapsulation
 
-**[SUGGEST IMAGE HERE: Encapsulation/Decapsulation diagram from PDF page 4-5]**
+![encapsulation](images/encapsulation.png)
 
 ### Encapsulation (Sending Data)
 When PC1 sends data to SRV1:
