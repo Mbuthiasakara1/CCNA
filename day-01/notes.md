@@ -165,7 +165,7 @@ When SRV1 receives data:
 - TCP on PC1 talks to TCP on SRV1
 - IP on PC1 talks to IP on Router talks to IP on SRV1
 
-**[SUGGEST IMAGE HERE: Layer interaction diagrams from PDF page 6-7]**
+
 
 ---
 
