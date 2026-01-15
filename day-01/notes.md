@@ -11,8 +11,8 @@
 ### Basic Network Devices
 
 **Client vs Server**
-- **Client (PC1)**: A device that accesses a service made available by a server
-- **Server (SRV1)**: A device that provides services to clients
+- **Client**: A device that accesses a service made available by a server
+- **Server**: A device that provides services to clients
 - Example: Your laptop (client) accessing a website (server)
 
 **Switches**
@@ -86,7 +86,7 @@
 
 ## 📚 The 5 Layers of TCP/IP Model
 
-**[SUGGEST IMAGE HERE: TCP/IP 5-layer diagram from PDF page 4]**
+![TCP/IP 5 Layers](day-01/images/tcp-ip model.png)
 
 **Layer 5 - Application**
 - Protocols for communication between application processes
